@@ -1,0 +1,14 @@
+export const premint = "premint";
+export const custom = "custom";
+export const whiteList = "whitelist";
+export const ergoBtn = "ergo";
+export const usePoolBtn = "usePool";
+export const TransmuteToGold = "Transmute to Gold";
+export const TransmuteFromGold = "Transmute from Gold";
+export const MintGold = "GAU Stablecoin";
+export const MintRsv = "GAUC Reservecoin";
+export const Fission = "Fission";
+export const Fusion = "Fusion";
+export const GAU_Stablecoin = "Transmutation to Gold";
+export const GAUC_Reservecoin = "Transmutation from Gold";
+export const Reactor = "Reactor";
