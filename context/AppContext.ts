@@ -4,6 +4,8 @@ export interface AccountType {
   avatar?: string;
   name?: string;
   msig_address: string;
+    balance?: number;
+
 }
 
 export interface AppContextType {
