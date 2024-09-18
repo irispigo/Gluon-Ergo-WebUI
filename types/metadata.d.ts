@@ -1,5 +1,6 @@
 
 interface CollectionInfo {
+  collectionName: string;
   collectionDescription: string;
   collectionLogoURL: string;
   collectionFeaturedImageURL: string;
