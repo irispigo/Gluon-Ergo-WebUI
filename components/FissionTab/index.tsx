@@ -1,4 +1,3 @@
-import ArrowDownIcon from "@/public/icons/arrow-down.svg";
 import ConversionBox from "../widgets/ConversionBox";
 import Image from "next/image";
 
