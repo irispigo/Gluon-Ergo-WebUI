@@ -1,4 +1,3 @@
-export const NEUTRON_TOKEN_ID = (isMainnet: boolean): string =>
   (isMainnet
     ? process.env.NEXT_PUBLIC_TESTNET_NEUTRON
     : process.env.NEXT_PUBLIC_TESTNET_NEUTRON)!?.replace(/[\\/]+$/, "");
