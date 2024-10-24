@@ -1,3 +1,4 @@
+import "react-toastify/dist/ReactToastify.css";
 
 import HomePage from "@/components/pages/HomePage";
 import HomePageContent from "@/components/Homepage";
