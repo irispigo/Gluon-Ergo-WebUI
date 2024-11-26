@@ -1,4 +1,5 @@
 export const callOutTitle =
+  "Gluon-Based Gold Stablecoins on Ergo";
 export const callOutDesc =
   "Gluon is a novel stabilization protocol inspired by nuclear physics, offering reliable stability or exposure to volatility based on your needs. Have digital Gold on-chain, backed by ERG, without the risks and inconveniences of physical gold.";
 export const infoTitleGAU = "Protect your Wealth from Market Volatility with $GAU";
